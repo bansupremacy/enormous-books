@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<userlist>
+<user type="student">
+<username>1551000</username>
+<name>GroupID#15</name>
+<dob><day>11</day>
+<month>4</month>
+<year>2016</year>
+</dob>
+<address>15CTT APCS HCMUS</address>
+<sex>Female and Male</sex>
+<subject>|</subject>
+<status>Activated</status>
+</user>
+<user type="admin">
+<username>administrator</username>
+<name>GroupID#15</name>
+<dob><day>11</day>
+<month>4</month>
+<year>2016</year>
+</dob>
+<address>15CTT APCS HCMUS</address>
+<sex>Female and Male</sex>
+<subject>|</subject>
+<status>Activated</status>
+</user>
+<user type="teacher">
+<username>teacher</username>
+<name>GroupID#15</name>
+<dob><day>11</day>
+<month>4</month>
+<year>2016</year>
+</dob>
+<address>15CTT APCS HCMUS</address>
+<sex>Female and Male</sex>
+<subject>|MATH|CS|</subject>
+<status>Activated</status>
+</user>
+</userlist>

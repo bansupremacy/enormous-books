@@ -1,0 +1,21 @@
+MATH
+GROUPID#15
+1
+1
+What is true about the statement "If two angles are right angles, the angles have equal measure" and its converse "If two angles have equal measure then the two angles are right angles"?
+|A. The statement is true but its converse is false.|B. The statement is false but its converse is true.|C. Both the statement and its converse are false.|D. Both the statement and its converse are true.|
+A
+MATH
+GROUPID#15
+1
+1
+In a class of 50 students, 18 take music, 26 take art, and 2 take both art and music. How many students in the class are not enrolled in either music or art?
+|A. 6|B. 8|C. 16|D. 24|
+B
+MATH
+GROUPID#15
+1
+1
+The statement "If x is divisible by 8, then it is divisible by 6" is FALSE if x equals
+|A. 6|B. 14|C. 32|D. 48|
+C

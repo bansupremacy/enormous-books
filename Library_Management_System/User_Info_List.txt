@@ -1,0 +1,33 @@
+|
+1551000
+2LUWN8Q
+GroupID#15
+11
+4
+2016
+15CTT APCS HCMUS
+Female and Male
+3
+1
+|
+administrator
+k5MaW3PIFkLOj
+GroupID#15
+11
+4
+2016
+15CTT APCS HCMUS
+Female and Male
+1
+1
+|MATH|CS|
+teacher
+36AVQzO
+GroupID#15
+11
+4
+2016
+15CTT APCS HCMUS
+Female and Male
+2
+1
