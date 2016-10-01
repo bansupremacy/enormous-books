@@ -1,1 +1,1 @@
-A final project of freshman's year
+A final project 
